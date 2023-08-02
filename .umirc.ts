@@ -1,5 +1,5 @@
 import { defineConfig } from 'dumi';
-const repo = 'mybooksite';
+const repo = 'mysite';
 export default defineConfig({
   title: 'Site Name',
   mode: 'site',

@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'Site Name',
   mode: 'site',
   // more config: https://d.umijs.org/config
-  base: 'mysite/',
-  publicPath: 'mysite/',
+  base: '/',
+  publicPath: '/',
   exportStatic: {},
 });

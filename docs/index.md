@@ -1,5 +1,7 @@
 # 前端面试题题目
 
+https://q.shanyue.tech/deploy/simple-intro
+
 ## 框架面试题
 
 📚 2023/08/07 整理
